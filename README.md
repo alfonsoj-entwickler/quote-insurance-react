@@ -1,5 +1,5 @@
 # insurance-quote-react
-An application to get the best insurance quote for your car with [React.js](https://react.dev/) and [Tailwind](https://tailwindcss.com/).
+An application to get the best insurance quote for your car with [React](https://react.dev/) and [Tailwind](https://tailwindcss.com/).
 
 ## Getting Started
 
